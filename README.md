@@ -1,6 +1,6 @@
 # History Project
 
-## Work Distribution
+## Speech Distribution
 
 - **Aman**: Introduction and Conclusion
 - **Avikam**: Prevention of Deforestation
