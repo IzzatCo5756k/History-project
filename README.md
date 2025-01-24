@@ -9,5 +9,5 @@
 
 ## Colors Hex Code
 
--**Chart Paper**: #ffff99
--**Text Content bg Color**: #d9f2fa
+-**Chart Paper**: #ffff99<br>
+-**Text Content BG Color**: #d9f2fa
